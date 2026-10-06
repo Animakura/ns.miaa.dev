@@ -1,7 +1,7 @@
 {
   "Ads": "https://ads.miaa.dev",
   "Alena": "https://alena.bunnii.net",
-  "API": "https://api.bunnii.net",
+  "API": "https://gateway.netsphere.moe/s/api.prod",
   "Auth": "https://auth.miaa.dev",
   "CMS": "https://cms.bunnii.net",
   "PrimaryCDN": "https://cdn.bunnii.net",
